@@ -2,6 +2,18 @@ h1{
     color:yellow;
     background-color:gray ;
     border: 10px solid goldenrod;
-    border-radius: 20px;
-   
+    border-radius: 50%;
+   padding:140px 30px;
+   margin-right: 430px;
+   margin-left:430px ;
+   /* box-shadow: 5px 10px 5px goldenrod; */
+   box-shadow: inset 0 -3em 3em rgba(0, 0, 0, 0.1),
+   0 0 0 2px rgb(255, 255, 255),
+   0.3em 0.3em 1em rgba(0, 0, 0, 0.3);;
+}
+ol li {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: darkblue;
+    background-color: aqua;
+
 }
